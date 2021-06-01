@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hammasali
 - 👀 I’m interested in Mobile Application Development 
-- 🌱 I’m currently learning Advance Flutter 
+- 🌱 I’m currently learning Custom Backend 
 - 💞️ I’m looking to collaborate on UI/UX or backend projects
 - 📫 How to reach me +923035699010 whatsapp
 
