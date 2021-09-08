@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Application Development 
 - 🌱 I’m currently learning Custom Backend 
 - 💞️ I’m looking to collaborate on UI/UX or backend projects
-- 📫 How to reach me +923035699010 whatsapp
+- 📫 How to reach me +923035699010 Whatsapp / hamsimirza1@gmail.com Gmail 
 
 <!---
 hammasali/hammasali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
